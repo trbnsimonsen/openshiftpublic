@@ -1,1 +1,1 @@
-# openshifttest
+# openshiftpublic
